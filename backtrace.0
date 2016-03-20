@@ -1,0 +1,100 @@
+Pointers
+------------
+0x7f03dfc5e1dc
+0x7f03deb38d57
+0x7f03df147717
+0x7f03df1527c3
+0x7f03e00af121
+Raw
+------------
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f03dfc5e1dc]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57) [0x7f03deb38d57]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717) [0x7f03df147717]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3) [0x7f03df1527c3]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121) [0x7f03e00af121]
+
+Demangled
+------------
+__print_back_trace()
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f03dfc5e1dc
+0x7f03deb38d57
+0x7f03df147717
+0x7f03df1527c3
+0x7f03e00af121
+Raw
+------------
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f03dfc5e1dc]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57) [0x7f03deb38d57]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717) [0x7f03df147717]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3) [0x7f03df1527c3]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121) [0x7f03e00af121]
+
+Demangled
+------------
+__print_back_trace()
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f03dfc5e1dc
+0x7f03deb38d57
+0x7f03df147717
+0x7f03df1527c3
+0x7f03e00af121
+Raw
+------------
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f03dfc5e1dc]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57) [0x7f03deb38d57]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717) [0x7f03df147717]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3) [0x7f03df1527c3]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121) [0x7f03e00af121]
+
+Demangled
+------------
+__print_back_trace()
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f03dfc5e1dc
+0x7f03deb38d57
+0x7f03df147717
+0x7f03df1527c3
+0x7f03e00af121
+Raw
+------------
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f03dfc5e1dc]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57) [0x7f03deb38d57]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717) [0x7f03df147717]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3) [0x7f03df1527c3]
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121) [0x7f03e00af121]
+
+Demangled
+------------
+__print_back_trace()
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x2c4d57)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8d3717)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x8de7c3)
+/home/tamim/anaconda2/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x183b121)
+-------------------------------------------------------
+
+
